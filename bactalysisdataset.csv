@@ -1,0 +1,90 @@
+MFC,Inoculum/Pretreatment,Substrate,Electrode,Power Density
+Two-chamber,Anaerobic sludge,Acetate,,13.5
+Two-chamber,Anaerobic sludge,Glucose,,1
+Two-chamber,Anaerobic sludge,Glucose,,4.2
+Two-chamber,Shewanella oneidensis,Lactate,,1
+Two-chamber,Anaerobic sludge,Wastewater,,5.6
+Single-chamber,Mixed consortium,Acetate,,
+Single-chamber,Effluent from MFC,Fermented Wastewater,,32
+Single-chamber,Effluent from MFC,Fermented Wastewater,,103
+Single-chamber,Anaerobic sludge,Wastewater,,45.84
+Two-chamber,Mixed consortium,Wastewater,Carbon-based,78.3
+Two-chamber,Shewanella oneidensis,Wastewater,Carbon-based,19.1
+Two-chamber,Clostridium pasteurianum,Wastewater,Carbon-based,0.4
+Two-chamber,Moorella thermoautotrophica,Wastewater,Carbon-based,6.3
+Two-chamber,Cupriavidus necator,Wastewater,Carbon-based,0.11
+Two-chamber,Cupriavidus metallidurans,Wastewater,Carbon-based,0.13
+Two-chamber,Kypridia spormannii,Wastewater,Carbon-based,50
+Two-chamber,Acidithiobacillus thiooxidans,Wastewater,Carbon-based,0.02
+Two-chamber,Acidithiobacillus ferrooxidans,Wastewater,Carbon-based,25.7
+Two-chamber,Acidithiobacillus ferrooxidans,Wastewater,Carbon-based,0.66
+Two-chamber,Acidithiobacillus ferrooxidans,Wastewater,Carbon-based,
+Two-chamber,Mariprofundus ferrooxydans,Wastewater,Carbon-based,53
+Two-chamber,Thiobacillus denitrificans,Wastewater,Carbon-based,1.5
+Two-chamber,Sulfurimonas denitrificans,Wastewater,Carbon-based,1.3
+Two-chamber,Desulfosporosinus orientis,Wastewater,Carbon-based,2
+Two-chamber,Desulfovibrio piger,Wastewater,Carbon-based,0.78
+Two-chamber,Desulfosporosinus orientis,Wastewater,Carbon-based,190
+Two-chamber,Geobacter sulfurreducens,Wastewater,Carbon-based,80
+Two-chamber,Rhodopseudomonas palustris,Wastewater,Carbon-based,0.5
+Two-chamber,Rhodopseudomonas palustris,Wastewater,Carbon-based,1.5
+Two-chamber,Rhodopseudomonas palustris,Wastewater,Carbon-based,0.1
+Two-chamber,Rhodobacter sphaeroides,Wastewater,Carbon-based,20
+Two-chamber,Methanobacterium palustre,Wastewater,Carbon-based,7
+Two-chamber,Methanothermobacter thermautotrophicus,Wastewater,Carbon-based,39
+Two-chamber,Methanococcus maripaludis,Wastewater,Carbon-based,28.6
+Two-chamber,Methanobacterium ,Wastewater,Carbon-based,9.7
+Two-chamber,Candidatus Tenderia electrophaga,Wastewater,Carbon-based,2.8
+Two-chamber,Anaerobic sludge,Wastewater,Carbon-based,31.3
+Two-chamber,Mixed consortium,Acetate,,43.31
+Two-chamber,Anaerobic sludge,Acetate,,0.086
+Two-chamber,Anaerobic sludge,Acetate,,0.12
+Two-chamber,Anaerobic sludge,Glucose,,12.67
+Two-chamber,Anaerobic sludge,Glucose,,11.56
+Two-chamber,Anaerobic sludge,Glucose,,2.562
+Two-chamber,Anaerobic sludge,Acetate,,0
+Two-chamber,Anaerobic sludge,Acetate,,8.39
+Two-chamber,Anaerobic sludge,Acetate,,16.67
+Two-chamber,Anaerobic sludge,Acetate,,0
+Two-chamber,Anaerobic sludge,Wastewater,,0.97
+Two-chamber,Anaerobic sludge,Acetate,,0
+Two-chamber,Anaerobic sludge,Wastewater,,11.77
+Two-chamber,Anaerobic sludge,Acetate,,0.815
+Two-chamber,Anaerobic sludge,Glucose,,1.4
+Two-chamber,Anaerobic sludge,Glucose,,0.72
+Two-chamber,Anaerobic sludge,Acetate,,3.46
+Two-chamber,Anaerobic sludge,Glucose,,31.4
+Two-chamber,Anaerobic sludge,Acetate,,
+Two-chamber,Anaerobic sludge,Acetate,,0
+Two-chamber,Anaerobic sludge,Acetate,,15
+Two-chamber,Anaerobic sludge,Acetate,,48.4
+Two-chamber,Anaerobic sludge,Glucose,,2.2
+Two-chamber,Anaerobic sludge,Fatty Acids and Alcohols,,0
+Two-chamber,Anaerobic sludge,Acetate,,75
+Two-chamber,Anaerobic sludge,Acetate,,0
+Two-chamber,Anaerobic sludge,Glucose,,57.24
+Two-chamber,Anaerobic sludge,Glucose,,61.41
+Two-chamber,Anaerobic sludge,Acetate,,1
+Two-chamber,Anaerobic sludge,Wastewater,Carbon cloth,1.3
+Two-chamber,Anaerobic sludge,Wastewater,Carbon paper,7.08
+Single-chamber,Anaerobic sludge,Wastewater,Graphite,12.46
+Single-chamber,Anaerobic sludge,Wastewater,Graphite,2.02
+,Anaerobic sludge,Wastewater,Carbon cloth,1.51
+Two-chamber,Anaerobic sludge,Wastewater,Graphite,26
+Single-chamber,Acetate,Acetate,Co-substrate,50.6
+Single-chamber,Arabitol,Arabitol,Co-substrate,68
+Two-chamber,Cysteine,Cysteine,Co-substrate,3.6
+Two-chamber,Anaerobic sludge,Wastewater,Graphite,0.06
+Two-chamber,Sodium benzoate,Sodium benzoate,Graphite,0.08
+Two-chamber,Proteus mirabilis,Glucose,Thionine,1.91
+Two-chamber,Saccharomyces cerevisiae,Glucose,Thionine,4.36
+Two-chamber,Saccharomyces cerevisiae,Glucose,Neutral red,16
+Two-chamber,Shewanella oneidensis,Lactate,"Anthraquinone-2,6-disulfonate (AQDS)",0.444
+Two-chamber,Anaerobic sludge,Glucose,Humic acid,0.85
+Two-chamber,Streptococcus lactis,Glucose,Ferric chelate,1.02
+Two-chamber,Anaerobic sludge,Acetate,Humic acid,5.89
+Two-chamber,Mixed consortium,Glucose,,0
+Two-chamber,Mixed consortium,Xylose,Humic acid,1.45
+Two-chamber,Anaerobic sludge,Glucose,MB,3.6
+Two-chamber,Saccharomyces,Glucose,Ferric chelate,3.46
+Two-chamber,Micrococcus luteus,Glucose,Thionine,0.85
